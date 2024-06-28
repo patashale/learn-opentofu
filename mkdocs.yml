@@ -2,6 +2,8 @@ site_name: Learn OpenTofu
 site_url: https://www.patashale.in/learn-opentofu/
 site_author: Patashale™
 site_description: Get educated about OpenTofu, an open source infrastructure as a code tool.
+repo_url: https://github.com/patashale/learn-opentofu
+repo_name: patashale/learn-opentofu
 theme:
   name: material
   language: en
