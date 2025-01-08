@@ -2,42 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.patashale.in/learn-opentofu/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/cli/overview/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/install/linux/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/install/macos/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/install/overview/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/install/windows/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/internals/overview/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-opentofu/en/language/overview/</loc>
-         <lastmod>2024-06-29</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-01-08</lastmod>
     </url>
 </urlset>
